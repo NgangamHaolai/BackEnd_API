@@ -45,13 +45,8 @@ This is the backend portion of the **Transaction Dashboard** project. It provide
    
 ## Use Postman to Test the API endpoints
 ## Input Values as :
-
-Eg:-
-      KEY        VALUE
-      month      7
-or:-
-      search     Mens Cotton Jacket
-or:-
-      page       3
-or:-
-      perPage    5
+   *   KEY        VALUE
+   *   month      7
+   *   search     Mens Cotton Jacket
+   *   page       3
+   *   perPage    5
